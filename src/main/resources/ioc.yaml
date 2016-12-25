@@ -1,0 +1,5 @@
+bean: 'userService'
+class: 'com.huayu.study.demo.UserService'
+keys:
+ name: 'testName'
+ age: 10
